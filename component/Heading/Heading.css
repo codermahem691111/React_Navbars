@@ -1,0 +1,45 @@
+#text{
+
+  font-size:15px;
+  color:white; 
+
+
+
+}
+
+#basic-nav-dropdown {
+
+  color:white;
+
+
+
+}
+
+
+#hallobtn {
+
+  border: 2px white;
+  border-radius: 4px;
+
+
+
+}
+
+
+@media screen and (max-width: 768px)   
+
+   {
+
+
+  #ContSec {
+     
+   display: none;
+    
+
+  }
+
+
+
+   }
+
+
